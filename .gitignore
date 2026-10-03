@@ -1,0 +1,14 @@
+# Helyi naplók és futtatási adatok
+*.log
+.runtime/
+sess_*
+
+# Szerkesztő és operációs rendszer helyi fájljai
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Helyi környezeti titkok
+.env
+.env.*
